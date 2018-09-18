@@ -1,7 +1,7 @@
-package com.mobilunity.test.user.registration.repository;
+package com.task.user.registration.repository;
 
-import com.mobilunity.test.user.registration.exception.UserAlreadyExistsException;
-import com.mobilunity.test.user.registration.entity.User;
+import com.task.user.registration.exception.UserAlreadyExistsException;
+import com.task.user.registration.entity.User;
 import org.springframework.stereotype.Component;
 
 import java.util.concurrent.ConcurrentHashMap;

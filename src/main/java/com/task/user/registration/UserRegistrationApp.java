@@ -1,4 +1,4 @@
-package com.mobilunity.test.user.registration;
+package com.task.user.registration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

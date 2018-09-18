@@ -1,4 +1,4 @@
-package com.mobilunity.test.user.registration.dto;
+package com.task.user.registration.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

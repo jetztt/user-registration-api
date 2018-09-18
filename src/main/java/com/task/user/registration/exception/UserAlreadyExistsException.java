@@ -1,4 +1,4 @@
-package com.mobilunity.test.user.registration.exception;
+package com.task.user.registration.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

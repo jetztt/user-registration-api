@@ -1,4 +1,4 @@
-package com.mobilunity.test.user.registration.utils;
+package com.task.user.registration.utils;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

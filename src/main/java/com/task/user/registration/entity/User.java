@@ -1,7 +1,7 @@
-package com.mobilunity.test.user.registration.entity;
+package com.task.user.registration.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.mobilunity.test.user.registration.utils.HashUtil;
+import com.task.user.registration.utils.HashUtil;
 
 import javax.validation.constraints.NotBlank;
 import java.util.Objects;

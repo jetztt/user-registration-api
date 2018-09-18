@@ -1,4 +1,4 @@
-package com.mobilunity.test.user.registration;
+package com.task.user.registration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

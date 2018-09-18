@@ -1,12 +1,12 @@
-package com.mobilunity.test.user.registration.controller;
+package com.task.user.registration.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mobilunity.test.user.registration.dto.UserRequest;
-import com.mobilunity.test.user.registration.exception.ExceptionCode;
-import com.mobilunity.test.user.registration.exception.UserAlreadyExistsException;
-import com.mobilunity.test.user.registration.entity.User;
-import com.mobilunity.test.user.registration.repository.UserRepositoryImpl;
+import com.task.user.registration.dto.UserRequest;
+import com.task.user.registration.exception.ExceptionCode;
+import com.task.user.registration.exception.UserAlreadyExistsException;
+import com.task.user.registration.entity.User;
+import com.task.user.registration.repository.UserRepositoryImpl;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

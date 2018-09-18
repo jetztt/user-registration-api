@@ -1,7 +1,7 @@
-package com.mobilunity.test.user.registration.controller;
+package com.task.user.registration.controller;
 
-import com.mobilunity.test.user.registration.dto.ErrorResponse;
-import com.mobilunity.test.user.registration.exception.UserAlreadyExistsException;
+import com.task.user.registration.dto.ErrorResponse;
+import com.task.user.registration.exception.UserAlreadyExistsException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

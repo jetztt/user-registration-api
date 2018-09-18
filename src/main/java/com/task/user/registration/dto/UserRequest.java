@@ -1,6 +1,7 @@
-package com.mobilunity.test.user.registration.dto;
+package com.task.user.registration.dto;
 
-import com.mobilunity.test.user.registration.entity.User;
+import com.task.user.registration.entity.User;
+
 import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
 

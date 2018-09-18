@@ -1,8 +1,8 @@
-package com.mobilunity.test.user.registration.controller;
+package com.task.user.registration.controller;
 
-import com.mobilunity.test.user.registration.dto.UserRequest;
-import com.mobilunity.test.user.registration.entity.User;
-import com.mobilunity.test.user.registration.repository.UserRepository;
+import com.task.user.registration.dto.UserRequest;
+import com.task.user.registration.entity.User;
+import com.task.user.registration.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
